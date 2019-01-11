@@ -1,5 +1,0 @@
-Accuracy can be Increase by using Knn to impute the missing values rather using mean values .
-Google colab is very fast and free Jupyter notebook environment that requires no setup and runs entirely in the cloud so for larger dataset we can use it if we don't have GPUs.
-For feature selection folling articals are raelly helpful.
-https://machinelearningmastery.com/an-introduction-to-feature-selection/
-https://www.analyticsvidhya.com/blog/2016/12/introduction-to-feature-selection-methods-with-an-example-or-how-to-select-the-right-variables/
